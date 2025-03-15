@@ -69,3 +69,5 @@ Puedes verla [aquí](/Paquete/).
 esta es mi participacion en proyecto gracias ya continuamos
 
 cambio desde github para mi ambiente local
+
+hacer un comentario y realizar el merge en mi local
