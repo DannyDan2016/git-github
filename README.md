@@ -67,3 +67,5 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 Puedes verla [aquí](/Paquete/).
 
 esta es mi participacion en proyecto gracias ya continuamos
+
+cambio desde github para mi ambiente local
