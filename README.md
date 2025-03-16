@@ -74,4 +74,5 @@ hacer un comentario y realizar el merge en mi local
 
 cambio desde mi rama local dannyTestProyectoLogin aprobar nuevo codigo para subir
 Gracias
+la colaboracion en la web si se puede
 
