@@ -72,5 +72,5 @@ cambio desde github para mi ambiente local
 
 hacer un comentario y realizar el merge en mi local
 
-cambio desde mi rama local dannyTestProyectoLogin
+cambio desde mi rama local dannyTestProyectoLogin aprobar
 
