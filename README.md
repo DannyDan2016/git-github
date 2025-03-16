@@ -72,5 +72,6 @@ cambio desde github para mi ambiente local
 
 hacer un comentario y realizar el merge en mi local
 
-cambio desde mi rama local dannyTestProyectoLogin aprobar
+cambio desde mi rama local dannyTestProyectoLogin aprobar nuevo codigo para subir
+Gracias
 
